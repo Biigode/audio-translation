@@ -1,0 +1,17 @@
+{
+  "text": " Bom, eu estou gravando esse vídeo aqui porque tentei fazer outro formato, não deu certo. Então, esse aqui é um teste, vou fazer a aplicação para transcrever um áudio em WAV para texto. Depois fazer o resumo e perguntas sobre o que foi transcrito pelo áudio, do áudio na real.",
+  "chunks": [
+    {
+      "timestamp": [0, 6.92],
+      "text": " Bom, eu estou gravando esse vídeo aqui porque tentei fazer outro formato, não deu certo."
+    },
+    {
+      "timestamp": [8.04, 14.94],
+      "text": " Então, esse aqui é um teste, vou fazer a aplicação para transcrever um áudio em WAV para texto."
+    },
+    {
+      "timestamp": [15.8, 21.76],
+      "text": " Depois fazer o resumo e perguntas sobre o que foi transcrito pelo áudio, do áudio na real."
+    }
+  ]
+}
